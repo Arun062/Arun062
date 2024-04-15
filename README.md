@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Arun, recently graduated B.E Electronics and Communication Engineering and accomplished Java full stack development course. Proven skills in Front-End and Back-End technologies like Java, Html, Css, JavaScript, Sql/MySql. Passionate Java developer with a strong foundation in OOP and problem-solving. Quick learner with a commitment and  Eager to contribute to innovative projects and collabrate with dynamic development team.</h2>
+<h2 align="left">Hi 👋! I am Arun, recently graduated B.E Electronics and Communication Engineering and accomplished Java full stack development course. Proven skills in Front-End and Back-End technologies like Java, Html, Css, JavaScript, Sql/MySql. Passionate Java developer with a strong foundation in OOP concepts,problem-solving and proficiency in using spring framework. Quick learner with a commitment and  Eager to contribute to innovative projects and collabrate with dynamic development team.</h2>
 
 ###
 
